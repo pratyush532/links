@@ -1,0 +1,54 @@
+body{
+    background-color: #2e3440;
+    color :#d8dee9;
+    text-shadow: #2e3440;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    font-size: large;
+    background-image: url("https://github.com/pratyush532/3D-and-Blender/blob/main/Wallpapers%20for%20you/street%20in%203d%20neon%20wallpaper.png?raw=true");
+  }
+  h5{
+        color: #eceff4;
+  }
+  hr{
+    color:#d8dee9;
+    border-color:#d8dee9;
+  }
+  .name{
+      color: #8fbcbb
+;
+  }
+  .love{
+      color: #bf616a !important;
+  }
+  .mute{
+      color: rgb(171, 185, 207);
+  }
+  /*----------------- Mail-------------------- */
+  #email{
+      text-decoration: none;
+      float: right;
+      color:#8fbcbb;
+  }
+  .footer{
+      margin-top: 5% !important;
+      margin-bottom: 10px;
+      color: #d8dee9;
+  }
+  .btn-outline-light{
+    color:#e5e9f0;
+    border-color: #d8dee9;
+    background-color: #3b4252;
+  }
+  .btn-outline-light:hover{
+    color:#e5e9f0;
+    border-color: #d8dee9;
+    background-color: #4c566a;
+  }
+  @media (max-width: 479px) {
+       .footer{
+       margin-top: 35% !important;
+       }
+  }
+  .m-3{
+    border-radius: 5%;
+  }
